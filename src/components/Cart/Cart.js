@@ -8,7 +8,7 @@ const Cart = (props) => {
 
     const cartCtx = useContext(CartContext)
 
-    const totalAmount = `$${cartCtx.totalAmount.toFixed(2)}`
+    const totalAmount = `Rp. ${cartCtx.totalAmount.toFixed(3)}`
     const hasItem = cartCtx.items.length > 0
 
     const handleRemoveItemFromCart = (id) => {

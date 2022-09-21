@@ -5,27 +5,33 @@ import MealItem from './MealItem/MealItem';
 const DUMMY_MEALS = [
     {
         id: 'm1',
-        name: 'Sushi',
-        description: 'Finest fish and veggies',
-        price: 22.99,
+        name: 'Espresso',
+        description: 'one shot 100% premium Arabika coffee McCafe',
+        price: 18,
     },
     {
         id: 'm2',
-        name: 'Schnitzel',
-        description: 'A german specialty!',
-        price: 16.5,
+        name: 'Cappuccino',
+        description: 'Perfect combination between espresso, steamed milk, and foam',
+        price: 20,
     },
     {
         id: 'm3',
-        name: 'Barbecue Burger',
-        description: 'American, raw, meaty',
-        price: 12.99,
+        name: 'Cheese Croissant',
+        description: 'crunchy croissant with melted cheese',
+        price: 15,
     },
     {
         id: 'm4',
-        name: 'Green Bowl',
-        description: 'Healthy...and green...',
-        price: 18.99,
+        name: 'Banana Muffin',
+        description: 'smooth React banana Muffin',
+        price: 14,
+    },
+    {
+        id: 'm5',
+        name: 'French Fries',
+        description: 'crispy and salty french fries',
+        price: 11,
     },
 ];
 
