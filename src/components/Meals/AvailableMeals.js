@@ -6,7 +6,7 @@ const DUMMY_MEALS = [
     {
         id: 'm1',
         name: 'Espresso',
-        description: 'one shot 100% premium Arabika coffee McCafe',
+        description: 'one shot 100% premium Arabika coffee ReactCoffee',
         price: 18,
     },
     {
@@ -24,7 +24,7 @@ const DUMMY_MEALS = [
     {
         id: 'm4',
         name: 'Banana Muffin',
-        description: 'smooth React banana Muffin',
+        description: 'smooth banana Muffin',
         price: 14,
     },
     {
